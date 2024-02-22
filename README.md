@@ -1,3 +1,2 @@
 # LiAuth
-An easy-to-integrate framework for authentication.
-    The framework uses a popup window to authenticate you.
+An easy-to-integrate framework for authentication. The framework uses a popup window to authenticate the user. The server will be given a secret and username, which the client will also give to the server.
